@@ -15,6 +15,7 @@
 # 1. Glide for getting online Android version images 
 # 2. Card View for better UI 
 
+# Abouth the Application
 I have added all the android versions from 'Android Jelly Bean' to 'Android 11'. I have also implemented the on click listener using the interface method which is considered the most efficient way to handle the on click listener. I have used dummy data to bind in the recyclr View. I have also used Glide library for fetching images from web or remote server. I have added a dummy background image if glide is not able to fetch required Image. 
 
 # Recycler view will look something as follows
