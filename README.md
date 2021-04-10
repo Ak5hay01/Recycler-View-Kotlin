@@ -22,6 +22,6 @@ I have added all the android versions from 'Android Jelly Bean' to 'Android 11'.
 
 ![alt text](/screenshot/Screenshot_20210410-194413.jpg)
 
-# If we click on the Item in recycler view/Android version a toast will show with the android name 
+# If we click on the Item in recycler view/Android version name, a toast will pop-up with the android name which was clicked
 
 ![alt text](/screenshot/Screenshot_20210410-194420.jpg)  
