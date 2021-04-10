@@ -1,15 +1,15 @@
 # Recycler-View-Kotlin
 
-# Implementing the Recycler view is tricky but if you master it, its very simple and easy.
+# Implementing the Recycler view is tricky but if you master it, it's very simple and easy.
 
 # Following are the important steps for creating recycler view in Android
-# Steps
+
 # 1. We need to add Dependency of recycler view
-# 2. We need to create a view for how are item will look
+# 2. We need to create a view for items (How the item will look in list/recycler view)
 # 3. Create Model class for the data that we are going to bind
 # 4. Create an Adapter (Most important step)
-# 5. Add Recycler view widget to Main Activity XML
-# 6. Initialize the Recycler view and bind data in Main Activity
+# 5. Add Recycler view widget to Main Activity XML/Layout file
+# 6. Initialize the Recycler view and bind data in Main Activity (Kotlin file)
 
 # In this Solution I have used 
 # 1. Glide for getting online Android version images 
